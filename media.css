@@ -1,0 +1,12 @@
+@media  (min-width:600) and (max-width:768px) {
+    #navbar{
+       font-size: 15px;
+    }
+    
+}
+@media  (min-width:300) and (max-width:480px) {
+    #navbar{
+       font-size: 10px;
+    }
+    
+}
